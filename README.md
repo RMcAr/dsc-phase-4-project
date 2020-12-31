@@ -21,19 +21,19 @@ We performed two classifications to classify our tweets. First, we classified tw
 We constructed word clouds that show most common words for Apple, Google, Positive tweets, and Negative tweets, respectively. 
 
 ### Apple
-![Apples Wordcloud](./Images/apple_wordcloud.png)
+![Apples Wordcloud](./images/apple_wordcloud.png)
 >This is a wordcloud of the most used words in tweets that referenced Apple
 
 ### Google
-![Googles Wordcloud](./Images/google_wordcloud.png)
+![Googles Wordcloud](./images/google_wordcloud.png)
 >This is a wordcloud of the most used words in tweets that referenced Google
 
 ### Positive Tweets
-![Positive Wordcloud](./Images/positive_wordcloud.png)
+![Positive Wordcloud](./images/positive_wordcloud.png)
 >This is a wordcloud of the most used words in Positive Tweets
 
 ### Negative Tweets
-![Negative Wordcloud](./Images/negative_wordcloud.png)
+![Negative Wordcloud](./images/negative_wordcloud.png)
 >This is a wordcloud of the most used words in Negative Tweets
 
 ## Recommendations
